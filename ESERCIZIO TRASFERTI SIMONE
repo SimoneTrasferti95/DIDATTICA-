@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<HTML LANG ="IT">
+    <HEAD>
+        <META CHARSET ="UTF-8">
+        <META NAME ="VIEWPORT" CONTENT ="WIDTH=DEVICE-WIDTH, INITIAL-SCALE=1.0">
+            <TITLE>DOCUMENTO SU ROMA</TITLE>
+
+
+    </HEAD>
+    <BODY>
+        <HEADER>
+        
+          
+      <img src="https://i.ebayimg.com/images/g/lGkAAOSwM0lnRgQW/s-l1600.png" width="100px"  
+    
+        
+    </HEADER>
+    <p align="center"> <H1>ROMA</H1> </p>
+<div>
+    <p>
+        BENVENUTI NELLA PAGINA UFFICIALE DEL COMUNE DI ROMA .<BR>
+            IN QUESTA PAGINA TROVERETE TUTTE LE INFORMAZIONI NECESSARIE <BR>
+                PER VISITARE MUSEI, MONUMENTI E ALTRO ANCORA.
+    </p>
+</div>
+<div>
+    <p>
+        <h2>Storia</h2>
+        Roma è la capitale d'italia e conta circa 2.800.000 abitanti.<br>
+        La sua storia è molto antica e risale a circa 3000 anni fà.<br>
+        La città è stata fondata da Romolo e Remo , i due gemelli che furono allattati da una lupa.<br>
+
+    </p>
+
+</div>
+<div>
+    <p>
+        <h2>Monumenti</h2>
+        Roma è famosa per i suoi monumenti e musei.<br>
+        Tra i più famosi ci sono :<br>
+        <ul>
+            <li>Colosseo</li>
+            <li>Fori Imperiali</li>
+            <li>Fontana Di Trevi</li>
+            <li>Piazza Di Spagna</li>
+        </ul>
+    </p>
+
+</div>
+<p>
+    <h2>Ticket</h2>
+    Per visitare i monumenti di Roma è necessario acquistare un ticket d'ingresso.<br>
+    I ticket si possono acquistare online o direttamente in loco.<br>
+    Per informazioni sui ticket visitare il sito ufficiale .<br>
+    <a href=https://www.ticketsrome.com/it>https://www.ticketsrome.com/it/</a>
+
+    
+</p>
+<p>
+    <h2>Attrazioni</h2>
+    Roma è una città molto bella e offre molte attrezzature per il tempo libero .<br>
+    Tra le attrazioni più famose ci sono :<br>
+    <ul>
+        <li>Bioparco</li><audio controls>
+            <source src="https://www.bioparco.it/wp-content
+            /uploads/2019/06/01-Track-1.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.</audio>
